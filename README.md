@@ -9,3 +9,8 @@
 
 二、运行前提
 1、根据启动日志提示，安装、连接相关组件信息，如mysql、zookeeper、redis、mongodb......
+
+
+三、日志
+2018-9-21：
+提供了redis、zk、active中间件学习demo
