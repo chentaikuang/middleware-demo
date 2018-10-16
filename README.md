@@ -5,6 +5,7 @@
 3、mysql、jpa
 4、neo4j
 5、zookeeper
+6、swagger
 ...
 
 二、运行前提
